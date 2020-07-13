@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#Ruby on  Rails Tutorial
+
+## "hello world"
+This is the first application for  the[*Ruby on Rails Tutorial*](https://.org/) by (michael Hart(https://www.michaelharlt.com). hello,world!
